@@ -78,7 +78,7 @@ goals_2025-26: ["Build 15+ real-world projects", "Contribute to open-source", "M
 
 </p>
 
-![snake gif](https://github.com/madhurkills/madhurkills/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/madhurkills/madhurkills/blob/output/github-contribution-grid-snake.svg)
 
 
 <p align="center">
